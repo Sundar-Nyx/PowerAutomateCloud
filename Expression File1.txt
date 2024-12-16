@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add(2,5)
+=======
+This is to check the git diff function
+>>>>>>> bafa40cc5bb0ece98898a9fc8d87093d74455aa7
